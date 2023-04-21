@@ -11,3 +11,8 @@ Configuration of VESTEL charger:
 Go to the IP of your vestel charger, login as admin (default: admin/admin)
 You have to enable "Local Load Management", in "Load Management Option", select "Modbus TCP", and save
 
+Documentation used: 
+
+https://forum.iobroker.net/assets/uploads/files/1649354282178-evc04.pdf
+
+
