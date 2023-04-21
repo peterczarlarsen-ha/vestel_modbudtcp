@@ -1,4 +1,4 @@
-# VESTEL_modbustcp
+# VESTEL_modbusTCP
 VESTEL Charger EVC04 (EON) - ModbusTCP
 
 Depending on your charger is on your local network (wifi or cabled), might also work with a RS-485 cabled connection, not tested...
